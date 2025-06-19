@@ -1,21 +1,22 @@
 # Iridis AI
 
-**AI lab focused on affordable and accessible AI.**
+**AI lab focused on affordable and fast AI.**
 
 ## ✨ About Us
 
-Iridis AI is a AI lab founded by two passionate high school students. We're dedicated to building AI that is not only powerful but also affordable and accessible to everyone. 
+Iridis AI is a AI lab founded by two passionate high school students. We're working to finetuning SLMs (Small language models) to make it powerful, while being small enough to run on consumer hardware.
 
 ## 🚀 What We Do
 
-*   **Fine-tuning diverse language conversational LLMs:** We focus on creating language models that understand and respond effectively in various cultural contexts. Our initial focus is on **Japanese, Chinese (Mandarin & Cantonese), English, and Korean**.
+*   **Fine-tuning conversational LLMs:** We focus on finetuning language models that understand and respond effectively. Our initial focus is **Chinese (Mandarin & Cantonese, Traditional) And English** for now.
+*   **Custom Datasets:** We aim to enhance existing model's perforance via custom datasets, which will be made public in the future.
 *   **Fine-tuning Text-to-Speech (TTS) models:**  We fine-tune TTS systems that deliver optimal performance and cultural relevance, particularly for **Japanese, Chinese (Cantonese) and English**.
 
-### 🔭 Coming Soon
+### 🔭 Soon™
 
 We're expanding into:
 
-*   **LLM(s) from scratch** In the future, where if we have enough data and dedication, we may consider developing new models.
+*   **LLM(s) from scratch** In the future, where if we have enough data and dedication (and the compute power to), we may consider developing new models.
 *   **Benchmarks for llms**
 
 ## 🤝 Get Involved
